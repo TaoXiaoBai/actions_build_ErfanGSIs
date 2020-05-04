@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://mirrors.lolinet.com/firmware/gsi/MIUI/MIUI-AB-10-20190904-ErfanGSI.img.7z
-  ROM_NAME: miui
+  ROM_URL: http://download.h2os.com/OnePlus7T%20Pro/OBT/OnePlus7TProHydrogen_13.X.03_OTA_003_all_2003130858_4d23cae8c57c4ee2.zip
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
