@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://mirrors.lolinet.com/firmware/gsi/MIUI/MIUI-AB-10-20190904-ErfanGSI.img.7z
-  ROM_NAME: MIUI
+  ROM_NAME: miui
   TZ: Asia/Shanghai
 
 jobs:
