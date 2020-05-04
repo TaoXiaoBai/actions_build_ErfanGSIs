@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/OnePlus7T%20Pro/OBT/OnePlus7TProHydrogen_13.X.03_OTA_003_all_2003130858_4d23cae8c57c4ee2.zip
+  ROM_URL: http://download.h2os.com/OnePlus7T%20Pro/MP/OnePlus7TProHydrogen_14.H.11_OTA_011_all_2003162017_c2af040b1fbb4703.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
