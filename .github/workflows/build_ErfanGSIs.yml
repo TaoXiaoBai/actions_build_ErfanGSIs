@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/OnePlus7T%20Pro/MP/OnePlus7TProHydrogen_14.H.11_OTA_011_all_2003162017_c2af040b1fbb4703.zip
+  ROM_URL: http://106.117.245.1/bigota.d.miui.com/9.8.22/miui_CEPHEUS_9.8.22_aa27670572_10.0.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
